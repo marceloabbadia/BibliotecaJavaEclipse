@@ -1,4 +1,4 @@
-<h1>BibliotecaJava_Eclipse!</h1>
+<h1>BibliotecaJavaEclipse!</h1>
 
 <p>Trabalho de criação de uma pequena biblioteca desenvolvendo os conceitos de orientação objetos com ArrayList, importação de bibliotecas do Java, etc..</p>
 
